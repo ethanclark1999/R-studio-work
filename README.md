@@ -1,2 +1,3 @@
 # R-studio-work
-R_studio work in my classes
+R_studio work in time series analysis class
+
